@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body onload="body_onload()">
+  <h1>Utregn Valuta</h1>
+  <fieldset>
+    <legend>Velg land:</legend>
+    <select id="valuta_select">
+
+    </select>
+  </fieldset>
+  <fieldset>
+    <legend>Oppgi valuta beløp:</legend>
+    <table>
+      <tr>
+        <td>
+          <input type="number" id="inpBelop" placeholder="Eks: 0.0">
+        </td>
+        <td>
+          <input type="submit" value="Beregn" id="beregn">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p id="resutatMelding"></p>
+        </td>
+      </tr>
+    </table>
+  </fieldset>
+</body>
+<script src="script.js"></script>
+
+</html>

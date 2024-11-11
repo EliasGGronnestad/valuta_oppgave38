@@ -1,0 +1,349 @@
+{
+  "versjon": "1.1",
+  "omregningskurser": [
+    {
+      "valutakode": "AUD",
+      "valutabeskrivelse": "AUSTRALSKE DOLLAR",
+      "valutakurs": "7,210",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "AUD",
+      "valutabeskrivelse": "AUSTRALSKE DOLLAR",
+      "valutakurs": "7,270",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "CAD",
+      "valutabeskrivelse": "KANADISKE DOLLAR",
+      "valutakurs": "7,900",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "CAD",
+      "valutabeskrivelse": "KANADISKE DOLLAR",
+      "valutakurs": "7,910",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "CHF",
+      "valutabeskrivelse": "SVEITSISKE FRANC",
+      "valutakurs": "1263,900",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "CHF",
+      "valutabeskrivelse": "SVEITSISKE FRANC",
+      "valutakurs": "1272,070",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "CNY",
+      "valutabeskrivelse": "KINESISKE YUAN",
+      "valutakurs": "1,540",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "CNY",
+      "valutabeskrivelse": "KINESISKE YUAN",
+      "valutakurs": "1,550",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "CZK",
+      "valutabeskrivelse": "TSJEKKISKE KORUNA",
+      "valutakurs": "46,670",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "CZK",
+      "valutabeskrivelse": "TSJEKKISKE KORUNA",
+      "valutakurs": "47,190",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "DKK",
+      "valutabeskrivelse": "DANSKE KRONER",
+      "valutakurs": "158,760",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "DKK",
+      "valutabeskrivelse": "DANSKE KRONER",
+      "valutakurs": "160,350",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "EUR",
+      "valutabeskrivelse": "EURO",
+      "valutakurs": "11,840",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "EUR",
+      "valutabeskrivelse": "EURO",
+      "valutakurs": "11,960",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "GBP",
+      "valutabeskrivelse": "BRITISKE PUND",
+      "valutakurs": "14,260",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "GBP",
+      "valutabeskrivelse": "BRITISKE PUND",
+      "valutakurs": "14,250",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "HKD",
+      "valutabeskrivelse": "HONG KONG DOLLAR",
+      "valutakurs": "1,410",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "HKD",
+      "valutabeskrivelse": "HONG KONG DOLLAR",
+      "valutakurs": "1,410",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "HUF",
+      "valutabeskrivelse": "UNGARSKE FORINT",
+      "valutakurs": "2,920",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "HUF",
+      "valutabeskrivelse": "UNGARSKE FORINT",
+      "valutakurs": "2,920",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "INR",
+      "valutabeskrivelse": "INDISKE RUPEES",
+      "valutakurs": "13,070",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "INR",
+      "valutabeskrivelse": "INDISKE RUPEES",
+      "valutakurs": "13,050",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "JPY",
+      "valutabeskrivelse": "JAPANSKE YEN",
+      "valutakurs": "7,150",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "JPY",
+      "valutabeskrivelse": "JAPANSKE YEN",
+      "valutakurs": "7,210",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "NOK",
+      "valutabeskrivelse": "NORSKE KRONER",
+      "valutakurs": "100,000",
+      "omregningsenhet": 100,
+      "fomdato": "1993-01-01",
+      "tomdato": ""
+    },
+    {
+      "valutakode": "NZD",
+      "valutabeskrivelse": "NEW ZEALAND DOLLAR",
+      "valutakurs": "6,550",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "NZD",
+      "valutabeskrivelse": "NEW ZEALAND DOLLAR",
+      "valutakurs": "6,580",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "PKR",
+      "valutabeskrivelse": "PAKISTANSK RUPI",
+      "valutakurs": "0,040",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "PKR",
+      "valutabeskrivelse": "PAKISTANSK RUPI",
+      "valutakurs": "0,040",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "PLN",
+      "valutabeskrivelse": "POLSKE ZLOTY",
+      "valutakurs": "2,720",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "PLN",
+      "valutabeskrivelse": "POLSKE ZLOTY",
+      "valutakurs": "2,740",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "RON",
+      "valutabeskrivelse": "RUMENSKE LEU",
+      "valutakurs": "238,020",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "RON",
+      "valutabeskrivelse": "RUMENSKE LEU",
+      "valutakurs": "240,370",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "SEK",
+      "valutabeskrivelse": "SVENSKE KRONER",
+      "valutakurs": "102,820",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "SEK",
+      "valutabeskrivelse": "SVENSKE KRONER",
+      "valutakurs": "102,520",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "SGD",
+      "valutabeskrivelse": "SINGAPORE DOLLAR",
+      "valutakurs": "8,290",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "SGD",
+      "valutabeskrivelse": "SINGAPORE DOLLAR",
+      "valutakurs": "8,330",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "THB",
+      "valutabeskrivelse": "THAILANDSK BAHT",
+      "valutakurs": "32,530",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "THB",
+      "valutabeskrivelse": "THAILANDSK BAHT",
+      "valutakurs": "32,630",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "USD",
+      "valutabeskrivelse": "AMERIKANSKE DOLLAR",
+      "valutakurs": "10,990",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "USD",
+      "valutabeskrivelse": "AMERIKANSKE DOLLAR",
+      "valutakurs": "10,980",
+      "omregningsenhet": 1,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    },
+    {
+      "valutakode": "ZAR",
+      "valutabeskrivelse": "SØR-AFRIKA REP. RAND",
+      "valutakurs": "61,980",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-04",
+      "tomdato": "2024-11-10"
+    },
+    {
+      "valutakode": "ZAR",
+      "valutabeskrivelse": "SØR-AFRIKA REP. RAND",
+      "valutakurs": "62,860",
+      "omregningsenhet": 100,
+      "fomdato": "2024-11-11",
+      "tomdato": "2024-11-17"
+    }
+  ]
+}
